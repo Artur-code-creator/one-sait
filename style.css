@@ -1,0 +1,38 @@
+table {
+	color: yellow;
+	border-radius: 10px;
+	border: 2px solid red;
+}
+[href="https://ya.ru"]{
+	color: pink;
+}
+li[height="150"]{
+	color: #ADFF2F;
+}
+.konec_stranici{
+	color: yellow;
+}
+
+.zhirn-bold{
+	font-weight: bold;
+}
+
+#idev {
+	font-weight: bold;
+}
+
+.list > li {
+	color: #8B0000
+}
+
+.font-size-md {
+	font-size: 35px;
+}
+
+.font-size-md.color-red {
+	color: red;
+}
+
+.font-size-md.color-brown {
+	color: #BDB76B;
+}
